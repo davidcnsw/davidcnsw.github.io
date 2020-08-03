@@ -71,7 +71,7 @@ defaults:
       layout: "post"
       comments: true
       search: true
-      author: <a href='/aboutme/'>Tom Johnson</a>
+      author: <a href='/aboutme/'>David CHEN</a>
   -
     scope:
       path: ""
@@ -133,7 +133,7 @@ podcast_explicit: "no"
 podcast_author: David CHEN
 podcast_description: Topics and issues for technical writers. Improve your technical communication role. Empower users with better documentation.
 podcast_summary: A technical writing podcast about the latest trends and practices in the field of technical communication. Technical communication includes topics like technical writing (software help), information architecture, usability, API documentation, information design, web design, illustration, DITA, structured authoring, visual communication, and more. If you're a technical writer or interested in technical writing, this is the one of few podcasts in this niche. I also have a blog at https://idratherbewriting.com where the podcasts and other blog topics are published.
-podcast_subtitle: Technical writing trends, innovations, and news. Content original from idratherbewriting.com. Hosted by Tom Johnson.
+podcast_subtitle: Technical writing trends, innovations, and news. Content original from idratherbewriting.com. Hosted by David CHEN.
 
 
 ####### Algolia configuration ###########
